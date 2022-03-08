@@ -1,0 +1,2 @@
+# vigor_miniprogram
+none
